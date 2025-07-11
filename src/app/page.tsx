@@ -102,7 +102,7 @@ export default function Home() {
       <header className="bg-black/20 backdrop-blur-sm border-b border-white/10 p-4">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-2xl font-bold text-white text-center">
-            🧗‍♂️ Oscar's Boulder Guide
+            🧗‍♂️ Oscar&apos;s Boulder Guide
           </h1>
           <p className="text-gray-300 text-center text-sm mt-1">
             Dein intelligenter Kletterbegleiter
